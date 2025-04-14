@@ -1,12 +1,14 @@
-[
-  {
-    "name": "📺咒术回战@小高",
-    "type": 1,
-    "api": "https://www.xgcartoon.com/voddetail/153.html"
-  },
-  {
-    "name": "📺小高动漫主页",
-    "type": 1,
-    "api": "https://www.xgcartoon.com"
-  }
-]
+{
+  "sites": [
+    {
+      "name": "📺咒术回战@小高",
+      "type": 1,
+      "api": "https://www.xgcartoon.com/voddetail/153.html"
+    },
+    {
+      "name": "📺小高动漫主页",
+      "type": 1,
+      "api": "https://www.xgcartoon.com"
+    }
+  ]
+}
